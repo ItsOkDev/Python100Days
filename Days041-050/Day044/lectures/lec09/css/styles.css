@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: Comfortaa, serif;
+    text-align: center;
+}
+div {
+    background-color: #CDF0EA;
+    padding-top: 100px;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
+    font-family: Sacramento, serif;
+    font-size: 8rem;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: Mali, serif;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+    font-family: Mali, serif;
+}
+a {
+    color: #11999E;
+}
+.top-container {
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.cpp-logo {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.python-logo {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.cpp-skill-description {
+    clear: left;
+}
+.python-skill-description {
+    clear: right;
+}
