@@ -183,8 +183,8 @@ x = []
 for i in range(n):
     d = int(input("Enter valur"))
     x.append(d)
-d = tuple(d)
-print(d)
+x = tuple(x)
+print(x)
 
 
 # ## 
